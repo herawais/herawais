@@ -10,7 +10,7 @@ Here's a JSON object representing my skills:
   "MohammadAwais": {
     "languages": ["Javascript", "Typescript", "Python", "Node"],
     "frontend": ["HTML", "CSS", "TailwindCSS", "React", "NextJS", "Vue", "NuxtJS", "Odoo"],
-    "backend": ["Node.js", "Express", "Odoo", "Rest APIs", "Django", "Flask", "ERPNext", "Frappe", ""],
+    "backend": ["MedusaJS", "Odoo", "Rest APIs", "Django", "Flask", "ERPNext", "Frappe"],
     "database": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
     "devops": ["AWS", "Docker", "K8s", "Terraform", "CICD", "DigitalOcean", "Linode", "Hetzner"],
     "mobile": ["AOSP"]
